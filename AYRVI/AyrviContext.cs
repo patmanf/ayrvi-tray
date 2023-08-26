@@ -64,7 +64,6 @@ internal class AyrviContext : ApplicationContext
 
     private void Exit(object sender, EventArgs e)
     {
-        TrayIcon.Visible = false;
         Application.Exit();
     }
 }
