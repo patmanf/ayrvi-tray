@@ -16,3 +16,7 @@ it automatically closes itself if you put your system to sleep because steam  de
 ![image](https://github.com/patmanf/ayrvi-tray/assets/27874300/405fb236-2f5f-4c78-9f3d-77b918ce4ec5)
 
 meow :3
+\
+\
+\
+releassed on hit's gub to celebrate my 500nd hour![image](https://github.com/patmanf/ayrvi-tray/assets/27874300/7739e8d3-934c-4604-ba2d-a9e5807b8353)
